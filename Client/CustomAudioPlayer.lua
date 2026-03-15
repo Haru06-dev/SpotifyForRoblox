@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/Haru06-dev/832ae278b128792f78bbcd239e845531/raw/930e36c19f023f1808038816ea94720f74d62d12/Spotify%2520For%2520Roblox"))()
