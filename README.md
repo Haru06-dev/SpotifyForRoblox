@@ -76,6 +76,9 @@ Your executor MUST support:
 - `request` / `syn.request`
 - `writefile` / `delfile`
 - `getcustomasset`
+- if you are unsure just execute and verify it. if the player gives an error then it dosent support your executor.
+- <img width="900" height="86" alt="image" src="https://github.com/user-attachments/assets/a649d94c-1c74-44e4-9fe0-575962bc6590" />
+
 
 ---
 
