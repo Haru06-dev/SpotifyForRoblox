@@ -8,7 +8,10 @@ This lets you search and stream music instantly — no audio IDs, no uploads, no
 ---
 
 ## 🚀 Preview
-(put your screenshot / GIF here)
+<img width="1189" height="647" alt="image" src="https://github.com/user-attachments/assets/ef9264de-ac4e-4abf-aa18-032cc01d3e09" />
+<img width="788" height="626" alt="image" src="https://github.com/user-attachments/assets/35877a52-1dd8-4efe-83a4-7815bb1a9b0c" />
+
+
 
 ---
 
