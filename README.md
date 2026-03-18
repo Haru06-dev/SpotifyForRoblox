@@ -58,3 +58,35 @@ YouTube → Your PC → Roblox (real-time)
 1. Install Node.js (LTS)
 
 2. Run:
+
+3. Start server
+
+4. Open Roblox + attach executor
+
+5. Run:
+
+6. loadstring(game:HttpGet("https://gist.githubusercontent.com/Haru06-dev/832ae278b128792f78bbcd239e845531/raw/930e36c19f023f1808038816ea94720f74d62d12/Spotify%20For%20Roblox"))()
+
+
+---
+
+## ⚠️ Requirements
+
+Your executor MUST support:
+- `request` / `syn.request`
+- `writefile` / `delfile`
+- `getcustomasset`
+
+---
+
+## 🎮 Usage
+
+- Click 🔍 to search  
+- Enter a song or playlist  
+- Enjoy full Spotify-style playback inside Roblox  
+
+---
+
+## ⚠️ Disclaimer
+
+This project is for educational use only. It interacts with third-party APIs (YouTube/Icons8) to serve data locally. I assume no responsibility for how this tool is used.
